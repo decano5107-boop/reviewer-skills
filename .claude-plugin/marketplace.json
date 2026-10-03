@@ -1,0 +1,9 @@
+{
+  "name": "reviewer-skills-marketplace",
+  "owner": { "name": "Diego Cano" },
+  "metadata": { "description": "Reviewer Skills for Claude Code — skills that review rather than produce.", "version": "0.1.0" },
+  "plugins": [
+    { "name": "reviewer-skills", "source": "./", "version": "0.1.0",
+      "description": "Three skills that review rather than produce: skeptical kit, systematic debugging, and strategy sparring." }
+  ]
+}

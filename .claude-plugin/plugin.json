@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "reviewer-skills",
+  "displayName": "Reviewer Skills",
+  "version": "0.1.0",
+  "description": "Three Claude Code skills that review rather than produce: an epistemic check on any answer that carries a number or a verdict, root-cause debugging that refuses to guess, a strategy sparring partner that pressure-tests decisions.",
+  "author": { "name": "Diego Cano" },
+  "homepage": "https://github.com/decano5107-boop/reviewer-skills",
+  "license": "Apache-2.0",
+  "keywords": ["claude-code", "reviewer-skills", "ai-agents", "code-review", "debugging", "strategy", "epistemics"]
+}
